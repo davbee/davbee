@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @davbee
-- 👀 I’m interested in bash, SQL, C++, Java, Python, machine learning, test engineering, SolidWorks
-- 🌱 I’m currently learning bash, SQL, C++, Java, Python, machine learning, test engineering, SolidWorks, AR / VR, Metaverse, Starline, etc
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in bash, SQL, C++, Java, Python, machine learning, etc
+- 🌱 I’m currently learning bash, SQL, C++, Java, Python, machine learning, AR / VR, Metaverse, Starline, etc
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ...
 
 <!---
