@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davbee
-- 👀 I’m interested in bash, SQL, C++, Java, Python, machine learning, etc
-- 🌱 I’m currently learning bash, SQL, C++, Java, Python, machine learning, AR / VR, etc
+- 👀 I’m interested in bash, SQL, C++, Python, machine learning, etc
+- 🌱 I’m currently learning bash, SQL, C++, Python, machine learning, AR / VR, computer vision, robotics, etc
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ...
 
